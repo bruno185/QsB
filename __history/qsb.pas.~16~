@@ -103,7 +103,6 @@ procedure QuickSort(iLo, iHi: Integer) ;
 
 
 // ************************************************************//
-// pushed to github
 function partition(lo,hi : integer): integer;
 var
   loptr, hiptr, pivot,tmp : integer;
