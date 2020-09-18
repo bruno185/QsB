@@ -102,7 +102,7 @@ procedure QuickSort(iLo, iHi: Integer) ;
  end;
 
 
-// ************************************************************//
+// *************************************************************//
 function partition(lo,hi : integer): integer;
 var
   loptr, hiptr, pivot,tmp : integer;
